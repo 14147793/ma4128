@@ -1,0 +1,37 @@
+install.packages("readr") 
+install.packages("modelr") 
+install.packages("randomForest") 
+install.packages("ggplot2") 
+
+library(readr) 
+library(modelr) 
+library(randomForest) 
+library(ggplot2) 
+
+data(diamonds)
+diamonds %>% dim()diamonds %>% names()
+diamtrain <- diamonds %>% sample_frac(0.30)
+diamtest <- diamonds %>% sample_frac(0.10)
+diamtrain %>% dim()
+
+Predictive mode
+Predictive model
+predicting "price" by all other variablesuse "randomForest"
+pricemodel <- randomForest(price ~ . , data=diamtrain)
+pricemodel <- lm(price ~ . , data=diamtrain)
+pricemodelrmse(pricemodel,diamtrain)
+mae(pricemodel,diamtrain)
+rsquare(pricemodel,diamtrain)
+qae(pricemodel,diamtrain)
+
+# Old Way / Base R  
+GE1 <- read.csv("https://raw.githubusercontent.com/RWorkshop/workshopdatasets/master/GEdata.csv")  
+
+# New Way / Tidyverse  library(readr)  
+GE2 <- read_csv("https://raw.githubusercontent.com/RWorkshop/workshopdatasets/master/GEdata.csv") 
+
+# What is the Difference?  
+library(dplyr)  
+glimpse(GE1) glimpse(GE2) 
+GE1 %>% glimpse()
+GE2 %>% glimpse()
