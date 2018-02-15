@@ -1,7 +1,7 @@
 Supply Chain Management (Anthony Kavanagh-14147793)
 ===========================
 
-![Internet of Things Cover](https://github.com/14147793/ma4128/blob/master/Internet%20of%20Things%20Photos/Internet%20of%20Things%20Cover.png)
+*_Compiled by Anthony Kavanagh - Student ID No. 14147793_*
 
 #### *_What is Supply Chain Management_*
 
@@ -9,7 +9,7 @@ Supply chain management (SCM) is a process that engages all events dealing with 
 
 >“The integration of such activities these activities through improved supply relationships, to achieve a sustainable competitive advantage."
 
-![Internet of Things Projections](https://github.com/14147793/ma4128/blob/master/Internet%20of%20Things%20Photos/Internet%20of%20Things%20Projections.png)
+![Supply Chain Managment Introduction](https://github.com/14147793/ma4128/blob/master/Supply%20Chain%20Management%20Images/Supply%20Chain%20Managment%20Introduction.jpg)
 
 The Supply Chain Resource Cooperative, a leading research think tank in North Caroline have completed numerous projects and industrial investigations in the area of supply chain management and redesign with huge MNC`s including Lenovo, Duke Energy, Biogen and the Ministry of health leading to huge saving and waste reductions in the overall supply chain (Supply Chain Resource Cooperative (SCRC), 2017). There definition of this field of study described Supply Chain management as:
 
@@ -22,7 +22,7 @@ There are three main aspects of supply chain management as identified by Seuring
 
 Below demonstrates the Supply Chain Process Steps for a Men`s  Nylon Supplex Parka sold on the web to Customers
 
-![Internet of Things Cover](https://github.com/14147793/ma4128/blob/master/Internet%20of%20Things%20Photos/Internet%20of%20Things%20Cover.png)
+![Supply Chain of Nylon Supplex Parka](https://github.com/14147793/ma4128/blob/master/Supply%20Chain%20Management%20Images/Supply%20Chain%20of%20Nylon%20Supplex%20Parka.png)
 
 #### *_History of Supply Chain Management_*
 
@@ -30,7 +30,7 @@ The idea and expression supply chain management has emerged over the last 20 yea
 
 In subsequent years, Supply Chain become central to operations management and research with a renewed focus on detailing and analysing each and every aspect of the manufacturing process from front end activities including sourcing and planning of resources, materials etc. direct manufacturing activities and final back end activities including customer returns, shipping, and disposal at end of life.
 
-![Internet of Things Operation](https://github.com/14147793/ma4128/blob/master/Internet%20of%20Things%20Photos/Internet%20of%20Things%20Operation.png)
+![Supply Chain Management History](https://github.com/14147793/ma4128/blob/master/Supply%20Chain%20Management%20Images/Supply%20Chain%20Management%20History.jpg)
 
 #### *_Supply Chain Management SCOR Model_*
 
@@ -71,11 +71,11 @@ Operations and Supply Chain Processes can be categorized into the views of the p
 
 5.	Returning: involves processing old worn-out defective and excess products back from customers and support to customers who have issues with delivered products   e.g. after sales support
 
-![Internet of Things Operation](https://github.com/14147793/ma4128/blob/master/Internet%20of%20Things%20Photos/Internet%20of%20Things%20Operation.png)
+![Supply Chain Management Features](https://github.com/14147793/ma4128/blob/master/Supply%20Chain%20Management%20Images/Supply%20Chain%20Management%20Features.jpg)
 
 The SCOR Process extends from your suppliers supplier to your customers customer. This includes all customer interaction from order entry to paid invoice and all market interactions in between. The purpose of the reference model below gives us the ability to describe the process architecture in a way that makes sense to key business partners. Once the process has been captured, a Standard process reference model it can be measured managed and controlled
 
-![Internet of Things Operation](https://github.com/14147793/ma4128/blob/master/Internet%20of%20Things%20Photos/Internet%20of%20Things%20Operation.png)
+![Supply Chain Management SCOR Model](https://github.com/14147793/ma4128/blob/master/Supply%20Chain%20Management%20Images/Supply%20Chain%20Management%20SCOR%20Model.jpg)
 
 This model contains:
 1.	Performance Metrics: Standard Matrices to measure process performance
@@ -87,7 +87,7 @@ This model contains:
 
 While the SCOR model provides a detailed workflow structure which has proven to be very successful in many different companies and organisations, there is a new era emerging in this field. The rising attractiveness of multi-platforms is demonstrated in the increase in demand that is now required for TradeCard’s supply chain collaboration arenas (Salecka, 2009). Such platform allow for the connection of multiple financial bodies with several buyers and suppliers, allowing for the delivery of automated supply chain finance transactions (Salecka, 2009)
 
-![Internet of Things Operation](https://github.com/14147793/ma4128/blob/master/Internet%20of%20Things%20Photos/Internet%20of%20Things%20Operation.png)
+![Supply Chain Management 2.0](https://github.com/14147793/ma4128/blob/master/Supply%20Chain%20Management%20Images/Supply%20Chain%20Management%202.0.jpg)
 
 The Rai Technology University (Rai Technology University, 2009) describes this new focus in supply chain as: 
 
@@ -97,11 +97,11 @@ The Rai Technology University (Rai Technology University, 2009) describes this n
 
 #### *_Future of Supply Chain Management_*
 
-![Internet of Things Manufacturing Visualisation](https://github.com/14147793/ma4128/blob/master/Internet%20of%20Things%20Photos/Internet%20of%20Things%20Manufacturing%20Visualisation.png)
+![Supply Chain Management future](https://github.com/14147793/ma4128/blob/master/Supply%20Chain%20Management%20Images/Supply%20Chain%20Management%20future.jpg)
 
 With the innovation proposed by the Internet of Things, we will begin to see much more collaboration across the supply chain, not just in individual business functions of manufacturing, planning, quality, warehousing etc. With increase data processing information, up to date information will allow to the ease of decision making in addition to increase value to the customer in terms of shorter lead time, increased quality, right first time, zero defects among many others. For example, asset tracking is not new by any means current barcode scanners as a means of tracking and managing inventory by freight and shipping companies may soon become a thing of the past.  as Newer asset tracking solutions offer much more vital and usable data, especially when paired with other IoT technologies (Meola, 2016). These may include RFID tags, which provide data on items to which they're attached through RFID antenna and a microchip for storing information, with others incorporating their own battery power which can facilitate the integration of additional sensors (Meola, 2016)
 
-![Internet of Things Manufacturing Visualisation](https://github.com/14147793/ma4128/blob/master/Internet%20of%20Things%20Photos/Internet%20of%20Things%20Manufacturing%20Visualisation.png)
+![Supply Chain Management Airbus](https://github.com/14147793/ma4128/blob/master/Supply%20Chain%20Management%20Images/Supply%20Chain%20Management%20Airbus.jpg)
 
 Internet-connected trackers use long-range networks or Low Power Wide Area Networks (LPWANs) to let companies track specific items throughout their delivery journeys (Meola, 2016). In the same vein, satellite trackers provide location data on an item almost anywhere on the planet, even in areas that do not have cellular coverage (Meola, 2016). Bluetooth tags and beacons offer tracking data in smaller, more confined areas, and companies most often use them in retail stores to monitor customer traffic and offer marketing messages to said customers (Meola, 2016).
 While the full extent of new technologies way not be fully known at present, we can be confident that supply chain management will become much more efficient and effective into the future at providing increase value to not just the customer, to also to each and every link on the supply chain. Increase visualisation and filter data allows for the generation of optimum solutions in aiding in the decision-making process. 
@@ -116,14 +116,11 @@ Mentzer, J. T. et al., 2001. DEFINING SUPPLY CHAIN MANAGEMENT. JOURNAL OF BUSINE
 
 Meola, A., 2016. How IoT logistics will revolutionize supply chain management. [Online] 
 Available at: http://uk.businessinsider.com/internet-of-things-logistics-supply-chain-management-2016-10?r=US&IR=T
-[Accessed 14 February 2018].
 
 Rai Technology University, 2009. Supply Chain Management. [Online] 
 Available at: http://164.100.133.129:81/econtent/Uploads/Supply_Chain_Management.pdf
-[Accessed 14 Feb 2018].
 
 Salecka, L., 2009. Accelerating Supply Chain Finance, s.l.: Global Trade Review.
 
 Supply Chain Resource Cooperative (SCRC), 2017. What is Supply Chain Managment. [Online]
 Available at: https://scm.ncsu.edu/scm-articles/article/what-is-supply-chain-management
-[Accessed 14 February 2018].
